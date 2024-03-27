@@ -1,4 +1,4 @@
-# Advanced Redux Cart Repository
+# Advanced Redux Cart 
 
 Welcome to the Advanced Redux Cart repository! This project demonstrates advanced Redux concepts such as asynchronous actions using `async` and `await`, integration with React components using `useEffect`, and efficient state management techniques for a shopping cart application.
 
